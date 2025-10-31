@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+# Ignore Python virtual environment
+.venv/
+
+# Ignore environment variables
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+
